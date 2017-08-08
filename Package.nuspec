@@ -13,6 +13,6 @@
     <dependencies></dependencies>
   </metadata>
   <files>
-    <file src="CreateVM\*.* target ="" />
+    <file src="CreateVM\*.*" target="" />
   </files>
 </package>
