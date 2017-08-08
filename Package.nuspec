@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Test.Package</id>
+    <id>Test.Packages</id>
     <version>1.0.0</version>
     <authors>Steven Walden</authors>
     <owners>Steven Walden</owners>
